@@ -1,0 +1,51 @@
+title Artisanal Plant Based Cheese Company 
+
+// Components with coordinates [x, y]
+anchor CONSUMER [0.88, 0.525]
+component Vegan Cheese Brand [0.83, 0.325]
+component Vegan Cheese Products [0.8, 0.475]
+component User Experience [0.78, 0.55]
+component Marketing & Education [0.75, 0.31]
+component Packaging [0.68, 0.375]
+component Sales & Distribution [0.625, 0.6]
+component Culinary Knowledge [0.55, 0.35]
+component Sustainability Practices [0.53, 0.225]
+component Payment Method [0.51, 0.9]
+component Online Sales [0.5, 0.525]
+component Physical Store [0.5, 0.625]
+component Local Distributors [0.5, 0.7]
+component Fermentation Techniques [0.4375, 0.425]
+component Culture & Enzymes [0.32, 0.275]
+component Plant Based Protein [0.32, 0.31]
+component Original Recipes [0.29, 0.45]
+component Regulatory Compliance [0.1875, 0.15]
+component Kitchen Equipment [0.125, 0.59]
+
+// Connections
+Consumer->Vegan Cheese Products
+Vegan Cheese Products->Vegan Cheese Brand
+Vegan Cheese Products->Packaging
+Vegan Cheese Products->Culinary Knowledge
+Vegan Cheese Products->Fermentation Techniques
+Vegan Cheese Products->Culture & Enzymes
+Vegan Cheese Products->Plant Based Protein
+Vegan Cheese Products->User Experience 
+Vegan Cheese Brand->Regulatory Compliance
+Vegan Cheese Brand->Marketing & Education
+Marketing & Education->Packaging 
+Marketing & Education->User Experience 
+Culinary Knowledge->Sustainability Practices
+Sustainability Practices->Culture & Enzymes
+Sustainability Practices->Plant Based Protein
+Culinary Knowledge->Fermentation Techniques
+Fermentation Techniques->Culture & Enzymes
+Fermentation Techniques->Plant Based Protein
+Fermentation Techniques->Original Recipes
+Original Recipes->Kitchen Equipment
+User Experience->Sales & Distribution
+Sales & Distribution->Online Sales
+Sales & Distribution->Physical Store
+Sales & Distribution->Local Distributors
+Sales & Distribution->Payment Method
+
+
