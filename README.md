@@ -10,7 +10,7 @@ The core concepts and methodology of Wardley Mapping originate from Simon Wardle
 
  Learn more at: [Simon Wardley’s official website and book](https://medium.com/wardleymaps/on-being-lost-2ef5f05eb1ec)
 
-🛠️ Tools for Creating Wardley Maps
+🛠️ **Tools for Creating Wardley Maps**
 
 ✏️ **Using Excalidraw**
 I started with Excalidraw, one of the most popular alternatives. A very intuitive tool for creating hand-drawn-style Maps. 
