@@ -6,13 +6,14 @@ This repository documents my learning journey and exploration into Wardley Mappi
 Finally, it aims to showcase the value of Wardley Maps in business environments and digital strategy, to reveal **strategic opportunities, map value chains, and support systems thinking.**
 
 📚 **Acknowledgements & Resources**
-The core concepts and methodology of Wardley Mapping originate from Simon Wardley, licensed under CC BY-SA 4.0.
+The core concepts and methodology of Wardley Mapping originate from Simon Wardley, licensed under `CC BY-SA 4.0`
 
  Learn more at: [Simon Wardley’s official website and book](https://medium.com/wardleymaps/on-being-lost-2ef5f05eb1ec)
 
-🛠️ **Tools for Creating Wardley Maps**
+### 🛠️ **Tools for Creating Wardley Maps**
 
 ✏️ **Using Excalidraw**
+
 I started with Excalidraw, one of the most popular alternatives. A very intuitive tool for creating hand-drawn-style Maps. 
 Excalidraw was showed and recommended during a webinar hosted by [Aleix Morgadas](https://www.linkedin.com/in/aleixmorgadas): _Wardley Mapping en Español, una introducción para aprender sobre los mapas_. 
 This webinar was my first hands-on introduction to Wardley Mapping. 
@@ -20,22 +21,18 @@ This webinar was my first hands-on introduction to Wardley Mapping.
 
 🔧 **Using Visual Studio Code**
 
-I installed the Wardley Maps Extension for VSCode for quick prototyping:
+I installed the **Wardley Maps** extension for Visual Studio Code:
 
-Open VSCode
+**Installation Steps**
 
-Launch Quick Open (Ctrl+P or Cmd+P)
+1. Open **Visual Studio Code**.
+2. Launch the Quick Open panel using `Ctrl+P` (Windows/Linux) or `Cmd+P` (macOS).
+3. Paste the following command into the input bar:
+   `ext install damonsk.vscode-wardley-maps`
+5. Press `Enter` to install the extension.
 
-Paste the following command:
+Source: [Online Wardley Maps](https://marketplace.visualstudio.com/items?itemName=damonsk.vscode-wardley-maps) 
 
-nginx
-Copy
-Edit
-ext install damonsk.vscode-wardley-maps
-Press Enter to install.
-
-
-ext install damonsk.vscode-wardley-maps
 
 
 
