@@ -15,9 +15,7 @@ The core concepts and methodology of Wardley Mapping originate from Simon Wardle
 ✏️ **Using Excalidraw**
 
 I started with Excalidraw, one of the most popular alternatives. A very intuitive tool for creating hand-drawn-style Maps. 
-Excalidraw was showed and recommended during a webinar hosted by [Aleix Morgadas](https://www.linkedin.com/in/aleixmorgadas): _Wardley Mapping in Spanish, an introduction to learning about maps_. 
-This webinar was my first hands-on introduction to Wardley Mapping. 
-
+https://plus.excalidraw.com/
 
 🔧 **Using Visual Studio Code**
 
